@@ -3,4 +3,4 @@
 Hello!
 
 
-This is a link to my [Looking Forward Statement](lookingforward.md)
+This is a link to my [Looking Forward Statement](lookingforward.html)
