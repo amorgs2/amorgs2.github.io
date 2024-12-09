@@ -1,4 +1,4 @@
-# amorgs2.github.io
+# My Digital Humanities Portfolio
 
 Hello!
 
