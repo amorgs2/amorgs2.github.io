@@ -13,12 +13,12 @@ That following Monday, I reached our group meeting at the Education Commons abou
 I would say that I feel our implementation was a success. Our final model was a tactile, textile representation of life at Eastern State penitentiary. Whoever holds it can run their fingers over the stitches and really connect with the ideas that we were trying to share. Overall, the project sheds light on how life in prison was depicted by the inmates themselves through The Umpire. The icons in the model show the major activities and concepts that the inmates engaged with in their daily lives, reflecting that during their incarceration they were mostly focusing on ideas and activities that centered on socializing and cultural output, and not only isolation and reform. I believe our group dynamic was good. We all pitched in with ideas and found a way to agree on tasks. Everyone performed their agreed tasks timely, and the project was executed successfully. We also communicated frequently through the group chat we made. I think if I could change something about the whole project’s process, it would be the time spent in the Education Commons. It would have been lovely to have more time to explore other technologies and methods. I also think it would have been cool to experiment with embroidery like the other textiles team did. Perhaps we could have made embroidered icons for our map, had we had more time.
 
 
-!(picture 1)[/images/Picture1.png]
-!(picture 2)[/images/Picture2.png]
-!(picture 3)[/images/Picture3.png]
-!(picture 4)[/images/Picture4.png]
-!(picture 5)[/images/Picture5.png]
-!(picture 6)[/images/Picture6.png]
-!(picture 7)[/images/Picture7.png]
-!(picture 8)[/images/Picture8.png]
+![picture 1](/images/Picture1.png)
+![picture 2](/images/Picture2.png)
+![picture 3](/images/Picture3.png)
+![picture 4](/images/Picture4.png)
+![picture 5](/images/Picture5.png)
+![picture 6](/images/Picture6.png)
+![picture 7](/images/Picture7.png)
+![picture 8](/images/Picture8.png)
 
