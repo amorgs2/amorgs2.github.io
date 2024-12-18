@@ -1,6 +1,6 @@
 # My Digital Humanities Portfolio
 
-Hello! And welcome to my Digital Humanities Portfolio for the ENGL 1650 Fall 2024 class.
+Hello! And welcome to my Digital Humanities Portfolio for the ENGL 1650 Fall 2024 class. My name is Alexandra Morgan and I'm a senior from Panama City, Panama majoring in History.
 
 Coming into this class, I truly had no idea what Digital Humanities was even about. I had a broad idea that I would be able to use my Computer Science skills in a History class, but no clue how those two fields would be integrated with one another. As the class progressed I found myself confronted by an incredibly expansive field that, yes, applied programming and data skills to historical research, but also had huge considerations for humanistic knowledge. This includes the way it is experienced, the way it affects those whose stories are being told and those interacting with said knowledge.
 
