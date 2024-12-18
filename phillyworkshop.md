@@ -17,5 +17,7 @@ Overall, I learned a lot in the workshop. I not only learned about the technolog
 Attached are also two other pictures: one is a selfie with Dominique Chamorro who also attended the workshop, and the other is a selfie outside Iffy Books door.
 
 ![picture 1](/images/Meshtastic1.png)
+
 ![picture 2](/images/Meshtastic2.png)
+
 ![picture 3](/images/Meshtastic3.png)
